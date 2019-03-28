@@ -1,0 +1,47 @@
+.header {
+    display:flex;
+    flex-direction: column;
+}
+
+.content {
+    display:flex;
+    flex-direction:column;
+    margin:8px;
+}
+
+input {
+    width: 300px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px auto;
+    
+}
+
+button {
+    display:block;
+    align-self:center;
+    max-width:100px;
+    padding:10px;
+}
+body {
+    text-align:center;
+    background-image:url(https://s1-ssl.dmcdn.net/ooDx5/x240-jES.jpg);
+}
+h1 {
+    color:honeyDew;
+    font-size: 32px;
+    
+}
+h2 {
+    color: honeyDew;
+    font-size: 29px;
+}
+p {
+    color:honeyDew;
+    font-size:30px;
+}
+.carlton, .will, .uncle-phil, .geoffrey {
+    display:none;
+}
+    
+    
